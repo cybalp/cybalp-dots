@@ -5,7 +5,7 @@
 	<name>Open Terminal Here</name>
 	<submenu></submenu>
 	<unique-id>1710575157271461-1</unique-id>
-	<command>foot -D %f</command>
+	<command>foot --working-directory=%f</command>
 	<description>Open the current directory in foot</description>
 	<range></range>
 	<patterns>*</patterns>
